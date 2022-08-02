@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and React native**
 
-- 👨‍💻 All of my projects are available at [www.theotheroption.nl](www.theotheroption.nl)
+- 👨‍💻 All of my projects are available at [www.theotheroption.nl](https://www.theotheroption.nl)
 
 - 💬 Ask me about **Python, Ruby, and Javascript**
 
