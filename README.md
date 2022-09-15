@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Judith</h1>
-<h3 align="center">A passionate full-stack developer from Amsterdam</h3>
+<h3 align="center">A passionate Data, Web and Mobile developer from Amsterdam, who can't seem to figure out which language she likes best.</h3>
 
 - 🔭 I’m currently working on [Buy The Bulk](https://buy-the-bulk.herokuapp.com/)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.theotheroption.nl](https://www.theotheroption.nl)
 
-- 💬 Ask me about **Python, Ruby, and Javascript**
+- 💬 Ask me about **Python, Ruby, Javascript, React and React Native **
 
 - 📫 How to reach me **info@theotheroption.nl**
 
