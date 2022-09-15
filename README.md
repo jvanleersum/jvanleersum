@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Buy The Bulk](https://buy-the-bulk.herokuapp.com/)
 
-- 🌱 I’m currently learning **React and React native**
+- 🌱 I’m currently learning **How to integrate Ruby on Rails with React Native**
 
 - 👨‍💻 All of my projects are available at [www.theotheroption.nl](https://www.theotheroption.nl)
 
-- 💬 Ask me about **Python, Ruby, Javascript, React and React Native **
+- 💬 Ask me about **Python, Ruby on Rails, Javascript, React and React Native**
 
 - 📫 How to reach me **info@theotheroption.nl**
 
